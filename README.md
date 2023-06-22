@@ -1,5 +1,5 @@
 ## Eae, sou João Felippe <br>
-<p> Estudo atualmente no cursando o curso de Inf. para Internet. </p>
+<p> Estudo atualmente cursando o curso de Inf. para Internet. </p>
 
 - 🌱 Estudo HTML, CSS e JS
 - ☯ Fé na caminhada, porque ela que me fortalece
