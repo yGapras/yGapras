@@ -1,15 +1,13 @@
-## Eae, sou João Felippe <br>
+## Slv slv, sou João Felippe e esse é meu GitHub 🧿 <br>
 <p> Estudo atualmente cursando o curso de Inf. para Internet. </p>
 
 - 🌱 Estudo HTML, CSS e JS
 - ☯ Fé na caminhada, porque ela que me fortalece
 <div>
 <picture>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=yGapras&show_icons=true&theme=cobalt"
-/>
+<source srcset="https://github-readme-stats.vercel.app/api?username=yGapras&show_icons=true&theme=cobalt"/>
  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=yGapras&show_icons=true" />
-</picture>
+</picture> <br>
  <img width="37%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=yGapras&layout=compact&theme=cobalt" />
   </div>
    <div style="display: inline-block"><br>
@@ -19,8 +17,10 @@
   </div>
   
   ##
-
-  <div> 
+  
+  ## Redes Sociais do malandro 💭
+  
+  <div>
   <a href="https://instagram.com/jao__felippe/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:oliveirajoaofelippe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
