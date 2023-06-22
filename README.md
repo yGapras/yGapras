@@ -1,16 +1,33 @@
-### Hi there 👋
+## Eae, sou João Felippe <br>
+<p> Estudo atualmente no cursando o curso de Inf. para Internet. </p>
 
-<!--
-**yGapras/yGapras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Estudo HTML, CSS e JS
+- ☯ Fé na caminhada, porque ela que me fortalece
+<div>
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=yGapras&show_icons=true&theme=cobalt"
+/>
+ <img width="42%" src="https://github-readme-stats.vercel.app/api?username=yGapras&show_icons=true" />
+</picture>
+ <img width="37%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=yGapras&layout=compact&theme=cobalt" />
+  </div>
+   <div style="display: inline-block"><br>
+  <img align="center" alt="gaprasrHTML" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="gaprasCSS" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt="gaprasJS" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  </div>
+  
+  ##
 
-Here are some ideas to get you started:
+  <div> 
+  <a href="https://instagram.com/jao__felippe/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:oliveirajoaofelippe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
+  </div>
+  
+  ##
+  
+  <img align="center" src="https://cdn.discordapp.com/attachments/1121273433158848616/1121274242168799353/Doflamingo_GIF_-_Doflamingo_-_Discover__Share_GIFs.gif">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
