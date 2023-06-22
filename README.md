@@ -25,9 +25,6 @@
   <a href = "mailto:oliveirajoaofelippe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
   </div>
-  
-  ##
-  
-  <img align="center" src="https://cdn.discordapp.com/attachments/1121273433158848616/1121274242168799353/Doflamingo_GIF_-_Doflamingo_-_Discover__Share_GIFs.gif">
+  <img align="center" height="500px" widht="1000px"  src="https://github.com/yGapras/yGapras/assets/137323840/0edc1e11-d85a-4afc-a534-8cdaec1a27bc">
 
   
